@@ -6,6 +6,7 @@
 [![C#](https://img.shields.io/badge/.NET-%207-blue)](#)
 [![License](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=lightrey)](#)
 [![QQ](https://img.shields.io/static/v1?label=QQGroup&message=348981074&color=red)](#)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinwenxuan05%2FLagrange.Core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinwenxuan05%2FLagrange.Core?ref=badge_shield)
 
 An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 
@@ -230,3 +231,7 @@ Please use Lagrange.Core responsibly and in accordance with the law.
 Thanks KonataDev/TheSnowfield for Provision of Signature API
 
 - Signature of Windows and macOS is missing, you need to figure out by your self
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinwenxuan05%2FLagrange.Core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinwenxuan05%2FLagrange.Core?ref=badge_large)
